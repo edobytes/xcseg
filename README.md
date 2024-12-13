@@ -9,15 +9,15 @@
 .         
 ├── checkpoints                         
 ├── dataset                        
-|   ├── images
-|   |   └── ...  
-|   ├── masks  
-|   |   └── ...                         
-|   └── sets
-|       ├── test.txt  
-|       └── train.txt       
+│   ├── images
+│   │   └── ...  
+│   ├── masks  
+│   │   └── ...                         
+│   └── sets
+│       ├── test.txt  
+│       └── train.txt       
 ├── segs          
-|   └── ...              
+│   └── ...              
 ├── ckpt.py           
 ├── config.py         
 ├── data.py       
